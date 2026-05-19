@@ -1,2 +1,2 @@
 # llano-river-eDNA
-Code related to project involving plant eDNA metabarcoding of water samples in North Llano and South Llano rivers. All scripts were generated at least in part using Google Gemini models.
+Code related to project involving plant eDNA metabarcoding of water samples in North Llano River and South Llano River. All scripts were generated at least in part using Google Gemini models. Script numbers do not correspond to order of figures in associated manuscript, but they do matter: script 1 needs to be run first followed by script 2, as they output files that are used in all the others. After 1 and 2 are completed, all the other scripts can be run in any order.
