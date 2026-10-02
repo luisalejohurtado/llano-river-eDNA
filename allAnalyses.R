@@ -381,10 +381,7 @@ pie(
 #Close and save the SVG file
 dev.off()
 
-
-
-
-#5. GLMM ####
+#5. GLMMs ####
 
 #install.packages("tidyverse")
 library(tidyverse)
